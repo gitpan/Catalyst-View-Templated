@@ -22,5 +22,6 @@ no_index:
     - t
 requires: 
   Catalyst::Component::ACCEPT_CONTEXT: 0.03
+  Class::C3: 0
   Path::Class: 0
-version: 0.01
+version: 0.02
